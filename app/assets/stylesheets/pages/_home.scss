@@ -1,0 +1,40 @@
+// Specific CSS for your home-page
+body {
+    background: darkblue url("https://www.mailexperiences.co.uk/content/img/product/large/royal-cocktails-with-sharing-18100237.jpg") no-repeat fixed center;
+}
+
+.card {
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  border-radius: 1px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 25px;
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  text-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
+
+.card-link {
+  font-size: 10px;
+  color: white;
+  text-align: center;
+}
+
+.banner-content {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.btn btn-primary {
+  font-size:15px;
+  background: black;
+}
+
+
